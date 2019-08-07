@@ -21,7 +21,7 @@ st.hide(1500)
 
 ### configuration
 - #### text 
-    #####(Type: string,Default:"")
+    ##### (Type: string,Default:"")
     ##### Description:the toast's text    
     ##### Examples
     ````
